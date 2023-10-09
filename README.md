@@ -25,8 +25,12 @@ Repository 2 was repurposed as a function to obtain the poisson_solver_2D.m
 
 ### Contributors
 Affiliations during development are presented
+
 Carola Rovira Sala - Cranfield University
+
 Tamás István Józsa - Cranfield University (tamas[DOT]jozsa[AT]cranfield[DOT]ac[DOT]uk)
+
 Máté (Matt) Szőke - Virginia Tech
+
 
 CRS developed the software under TIJ's supervision. Experimental data (TravLog_v1_Summary50_MAT.mat) and a preliminary profile esimate (parabola_fit.mat) were provided by MSz.
