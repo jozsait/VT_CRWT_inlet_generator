@@ -7,8 +7,8 @@ The purpose of the software is to generate a two-dimensional velocity field by f
 
 ### TODO
 
-- [] improving curve fitting near the wall
-- [] taking asymemtry into account
+- [ ] improving curve fitting near the wall
+- [ ] taking asymemtry into account
 
 ### References
 Further details are provided in the work of Althaf et al. “Numerical modeling and tunnel specific considerations for CFD model development of low-speed wind tunnels”, AIAA AVIATION Forum, San Diego CA, USA, 2023​
